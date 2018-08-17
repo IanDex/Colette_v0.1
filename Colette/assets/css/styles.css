@@ -1,0 +1,29 @@
+.darko{
+  background-color: #272c33;
+}
+.mt-3, .my-3 {
+    margin-top: 0rem!important;
+}
+
+.container-fluid {
+    padding-right: 0px;
+  }
+
+.slimScroll{
+  height:90vh;
+  padding-top: 15px;
+  padding-right: 15px;
+}
+
+.slimScrollBar{
+  background: rgba(0, 0, 0, 0.95);
+  width: 10px;
+  position: absolute;
+  top: 0px;
+  opacity: 0.4;
+  /* display: none; */
+  border-radius: 3px;
+  z-index: 99;
+  right: 1px;
+  height: 100px;
+}
